@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /about/index.html
-title: 关于我
+title: About me
 tags: [about]
 image:
   feature: 
 ---
 <figure>
-  <img src="{{ site.url }}/images/moe.png" alt="ibrother">
-  <figcaption>ibrother</figcaption>
+  <img src="{{ site.url }}/images/moe.png" alt="daniel">
+  <figcaption>daniel</figcaption>
 </figure>
 
 <div class="alert alert-success" role="alert">
-    在这里加入你的介绍
+    The author of Maggie OpenMax Player, who is dedicated to the multimedia in the embedded system
 </div>

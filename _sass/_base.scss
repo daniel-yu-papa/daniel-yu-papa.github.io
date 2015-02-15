@@ -1,3 +1,4 @@
+
 @import url(http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,700);
 @import url(http://fonts.useso.com/css?family=Merriweather:400,300,400italic,700);
 @import url(http://fonts.useso.com/css?family=Raleway:400,300,100,700);
@@ -48,7 +49,7 @@ h3 {
   line-height: 24px;
   margin-top: 24px;
   margin-bottom: 20px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 h3 small {
   font-size: 13px;
@@ -62,18 +63,18 @@ h4 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 h4 small {
   font-size: 16px;
 }
 h5 {
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 h6 {
   font-size: 13px;
-  text-transform: uppercase;
+  text-transform: none;
   margin: 0;
 }
 /* - Links - */
@@ -242,7 +243,7 @@ q {
   font-size: 60px;
   font-weight: bold;
   line-height: 1;
-  text-transform: uppercase;
+  text-transform: none;
 }
 .super.text-center small {
   display: block;
@@ -266,7 +267,7 @@ q {
 }
 /* - Text transform classes - */
 .text-caps {
-  text-transform: uppercase !important;
+  text-transform: none !important;
 }
 .text-italic {
   font-style: italic;

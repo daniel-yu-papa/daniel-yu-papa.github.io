@@ -1,8 +1,8 @@
 title:            Daniel Yu
 description:      "Multimedia for Embedded System"
 logo:             omikron.png
-disqus_shortname:
-duoshuo_shortname:  daniel
+disqus_shortname: danielyu
+duoshuo_shortname:  
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
 search:           true
@@ -20,11 +20,11 @@ fin_color:        "255,255,255"
 
 # Owner/author information
 owner:
-  name:           daniel
+  name:           Daniel Yu
   avatar:         moe.png
   email:          daniel_yu2015@outlook.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    hello world
+  description:    Daniel Yu...
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -100,7 +100,7 @@ gems:      []
 # Conversion
 markdown:    kramdown
 highlighter: pygments
-#rouge
+#rouge pygments
 lsi:         false
 excerpt_separator: "<!--more-->"
 

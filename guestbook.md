@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: guestbook/index.html
-title: "留言板"
-description: 有問題可以給我留言
+title: "Message Board"
+description: Any questions? suggestions? Comments?
 headline: 
-modified: 2014-12-07
+modified: 2015-02-15
 tags: []
 image: 
   feature: 
 comments: true
 mathjax: 
 ---
-> 汉之广矣，不可泳思；江之永矣，不可方思。
+> Say something you like
