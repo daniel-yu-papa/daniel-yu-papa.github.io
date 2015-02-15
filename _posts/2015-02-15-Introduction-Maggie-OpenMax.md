@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-The [Maggie OpenMax Library v0.1](https://sourceforge.net/projects/maggieopenma/files/latest/download) just released several days ago. So it is the right time to review it and give out the plan for next step.
+The [Maggie OpenMax Library](https://sourceforge.net/projects/maggieopenma/) v0.1 just released several days ago. So it is the right time to review it and give out the plan for next step.
 
 <!--more-->
 
