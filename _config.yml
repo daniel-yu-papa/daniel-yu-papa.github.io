@@ -99,8 +99,8 @@ gems:      []
 
 # Conversion
 markdown:    kramdown
-highlighter: rouge
-#pygments
+highlighter: pygments
+#rouge
 lsi:         false
 excerpt_separator: "<!--more-->"
 
